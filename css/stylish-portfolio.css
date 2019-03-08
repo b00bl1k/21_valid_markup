@@ -127,6 +127,10 @@ hr.small {
   right: 0;
 }
 
+#menu-close {
+  text-indent: 0px;
+}
+
 #sidebar-wrapper.active {
   right: 250px;
   width: 250px;
